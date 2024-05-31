@@ -29,3 +29,8 @@ Displays the total number of participants who took part in the survey.
 
 **2. Average Age of Survey Takers:**
 Shows the average age of the respondents.
+
+## Project Structure
+- Data_Professional_Survey_Breakdown
+- PowerBIData
+- README.md
