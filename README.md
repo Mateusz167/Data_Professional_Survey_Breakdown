@@ -32,5 +32,5 @@ Shows the average age of the respondents.
 
 ## Project Structure
 - Data_Professional_Survey_Breakdown
-- PowerBIData
+- Power BI - data set
 - README.md
