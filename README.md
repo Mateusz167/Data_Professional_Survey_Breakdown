@@ -5,7 +5,7 @@ This repository contains a Power BI report titled Data_Professional_Survey_Break
 ## Report Contents
 The Power BI report includes the following visualizations and metrics:
 
-**Charts**
+# Charts
 Country of Survey Takers:
 
 Displays the geographical distribution of the survey respondents.
@@ -24,7 +24,7 @@ Highlights the most preferred programming languages among the survey takers.
 Difficulty to Break into Data:
 
 Provides insights into how challenging the respondents found it to enter the data profession.
-**Cards**
+# Cards
 Count of Survey Takers:
 
 Displays the total number of participants who took part in the survey.
